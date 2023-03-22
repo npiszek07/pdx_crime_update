@@ -1,0 +1,72 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "CATEGORY" : "CATEGORY",
+    "CALL_GROUP" : "CALL_GROUP",
+    "final_case" : "final_case",
+    "CASE_DESC" : "CASE_DESC",
+    "occ_date" : "occ_date",
+    "x_coordina" : "x_coordina",
+    "y_coordina" : "y_coordina",
+    "census_tra" : "census_tra"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 2913,
+    "latestWkid" : 2913
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "CATEGORY",
+      "type" : "esriFieldTypeString",
+      "alias" : "CATEGORY",
+      "length" : 254
+    },
+    {
+      "name" : "CALL_GROUP",
+      "type" : "esriFieldTypeString",
+      "alias" : "CALL_GROUP",
+      "length" : 254
+    },
+    {
+      "name" : "final_case",
+      "type" : "esriFieldTypeString",
+      "alias" : "final_case",
+      "length" : 254
+    },
+    {
+      "name" : "CASE_DESC",
+      "type" : "esriFieldTypeString",
+      "alias" : "CASE_DESC",
+      "length" : 254
+    },
+    {
+      "name" : "occ_date",
+      "type" : "esriFieldTypeDate",
+      "alias" : "occ_date",
+      "length" : 8
+    },
+    {
+      "name" : "x_coordina",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "x_coordina"
+    },
+    {
+      "name" : "y_coordina",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "y_coordina"
+    },
+    {
+      "name" : "census_tra",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "census_tra"
+    }
+  ],
+  "features" : [{"attributes":{"FID":0,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470182400000,"x_coordina":7661538.0,"y_coordina":689217.0,"census_tra":2802.0},"geometry":{"x":7661538,"y":689217}},{"attributes":{"FID":1,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470355200000,"x_coordina":7662605.0,"y_coordina":667163.0,"census_tra":402.0},"geometry":{"x":7662605,"y":667163}},{"attributes":{"FID":2,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470441600000,"x_coordina":7636301.0,"y_coordina":660939.0,"census_tra":6200.0},"geometry":{"x":7636301,"y":660939}},{"attributes":{"FID":3,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471046400000,"x_coordina":7665894.0,"y_coordina":692913.0,"census_tra":2901.0},"geometry":{"x":7662006.8679207927,"y":693963.57623762381}},{"attributes":{"FID":4,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471046400000,"x_coordina":7678549.0,"y_coordina":695203.0,"census_tra":7900.0},"geometry":{"x":7678549,"y":695203}},{"attributes":{"FID":5,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471046400000,"x_coordina":7682195.0,"y_coordina":661968.0,"census_tra":8901.0},"geometry":{"x":7682195,"y":661968}},{"attributes":{"FID":6,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471132800000,"x_coordina":7684546.0,"y_coordina":674641.0,"census_tra":9101.0},"geometry":{"x":7684546,"y":674641}},{"attributes":{"FID":7,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471564800000,"x_coordina":7640523.0,"y_coordina":660001.0,"census_tra":6300.0},"geometry":{"x":7640523,"y":660001}},{"attributes":{"FID":8,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472169600000,"x_coordina":7646876.0,"y_coordina":694099.0,"census_tra":3402.0},"geometry":{"x":7659377.8572277222,"y":697776.01683168311}},{"attributes":{"FID":9,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471046400000,"x_coordina":7639102.0,"y_coordina":685953.0,"census_tra":4700.0},"geometry":{"x":7639102,"y":685953}},{"attributes":{"FID":10,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471046400000,"x_coordina":7641180.0,"y_coordina":695718.0,"census_tra":3502.0},"geometry":{"x":7641180,"y":695718}},{"attributes":{"FID":11,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471046400000,"x_coordina":7676556.0,"y_coordina":696045.0,"census_tra":7900.0},"geometry":{"x":7676556,"y":696045}},{"attributes":{"FID":12,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471132800000,"x_coordina":7641527.0,"y_coordina":679007.0,"census_tra":5800.0},"geometry":{"x":7641527,"y":679007}},{"attributes":{"FID":13,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472256000000,"x_coordina":7632742.0,"y_coordina":703935.0,"census_tra":4002.0},"geometry":{"x":7632742,"y":703935}},{"attributes":{"FID":14,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472256000000,"x_coordina":7665843.0,"y_coordina":681042.0,"census_tra":1601.0},"geometry":{"x":7665843,"y":681042}},{"attributes":{"FID":15,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470268800000,"x_coordina":7650813.0,"y_coordina":677051.0,"census_tra":1000.0},"geometry":{"x":7650813,"y":677051}},{"attributes":{"FID":16,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470355200000,"x_coordina":7639866.0,"y_coordina":665918.0,"census_tra":6002.0},"geometry":{"x":7639866,"y":665918}},{"attributes":{"FID":17,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470787200000,"x_coordina":7656875.0,"y_coordina":673785.0,"census_tra":902.0},"geometry":{"x":7656875,"y":673785}},{"attributes":{"FID":18,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471564800000,"x_coordina":7631871.0,"y_coordina":705189.0,"census_tra":4002.0},"geometry":{"x":7631871,"y":705189}},{"attributes":{"FID":19,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471564800000,"x_coordina":7639173.0,"y_coordina":708232.0,"census_tra":3901.0},"geometry":{"x":7639173,"y":708232}},{"attributes":{"FID":20,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472256000000,"x_coordina":7660657.0,"y_coordina":685042.0,"census_tra":1801.0},"geometry":{"x":7660657,"y":685042}},{"attributes":{"FID":21,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472342400000,"x_coordina":7657126.0,"y_coordina":672876.0,"census_tra":902.0},"geometry":{"x":7657126,"y":672876}},{"attributes":{"FID":22,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472515200000,"x_coordina":7624529.0,"y_coordina":708181.0,"census_tra":4200.0},"geometry":{"x":7624529,"y":708181}},{"attributes":{"FID":23,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470009600000,"x_coordina":7678470.0,"y_coordina":670170.0,"census_tra":8500.0},"geometry":{"x":7678470,"y":670170}},{"attributes":{"FID":24,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470441600000,"x_coordina":7656487.0,"y_coordina":663021.0,"census_tra":302.0},"geometry":{"x":7656487,"y":663021}},{"attributes":{"FID":25,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470441600000,"x_coordina":7668235.0,"y_coordina":695283.0,"census_tra":2901.0},"geometry":{"x":7668235,"y":695283}},{"attributes":{"FID":26,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1470700800000,"x_coordina":7651448.0,"y_coordina":662335.0,"census_tra":200.0},"geometry":{"x":7651448,"y":662335}},{"attributes":{"FID":27,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471392000000,"x_coordina":7664217.0,"y_coordina":689501.0,"census_tra":2801.0},"geometry":{"x":7664217,"y":689501}},{"attributes":{"FID":28,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471478400000,"x_coordina":7640607.0,"y_coordina":707349.0,"census_tra":3901.0},"geometry":{"x":7640607,"y":707349}},{"attributes":{"FID":29,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471564800000,"x_coordina":7646876.0,"y_coordina":694099.0,"census_tra":3402.0},"geometry":{"x":7659377.8572277222,"y":697776.01683168311}},{"attributes":{"FID":30,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1471651200000,"x_coordina":7644726.0,"y_coordina":668997.0,"census_tra":5900.0},"geometry":{"x":7644726,"y":668997}},{"attributes":{"FID":31,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472083200000,"x_coordina":7660347.0,"y_coordina":680675.0,"census_tra":1400.0},"geometry":{"x":7660347,"y":680675}},{"attributes":{"FID":32,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472169600000,"x_coordina":7650996.0,"y_coordina":679743.0,"census_tra":1102.0},"geometry":{"x":7650996,"y":679743}},{"attributes":{"FID":33,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472256000000,"x_coordina":7633637.0,"y_coordina":704849.0,"census_tra":4002.0},"geometry":{"x":7633637,"y":704849}},{"attributes":{"FID":34,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472256000000,"x_coordina":7658489.0,"y_coordina":670093.0,"census_tra":401.0},"geometry":{"x":7658489,"y":670093}},{"attributes":{"FID":35,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472256000000,"x_coordina":7666224.0,"y_coordina":675380.0,"census_tra":701.0},"geometry":{"x":7666224,"y":675380}},{"attributes":{"FID":36,"CATEGORY":"OTHER","CALL_GROUP":"DISORDER","final_case":"PARTY","CASE_DESC":"PARTY DISTURBANCE","occ_date":1472342400000,"x_coordina":7645125.0,"y_coordina":694413.0,"census_tra":3402.0},"geometry":{"x":7657626.8572277222,"y":698090.01683168311}}]
+}
